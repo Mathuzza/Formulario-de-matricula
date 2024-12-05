@@ -2,7 +2,7 @@
 
 <p align="center">Feito para pratica de form</p>
 
-https://mathuzza.github.io/Formulario-de-matricula/
+<p align="center">https://mathuzza.github.io/Formulario-de-matricula/</p>
 
 ## Tecnologias
 
